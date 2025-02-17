@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horario Escolar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #242424;
+        }
+
+        h1 {
+            text-align: center;
+            color: #ff910a;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            background-color: #ffaf4d;
+            text-align: center;
+        }
+
+        th,
+        td {
+            border: 1px solid #1f1f1f;
+            padding: 10px;
+        }
+
+        th {
+            background-color: #ff910a;
+            font-weight: bold;
+        }
+
+        td[rowspan] {
+            vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Horario Escolar</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Hora</th>
+                <th>Lunes</th>
+                <th>Martes</th>
+                <th>Miércoles</th>
+                <th>Jueves</th>
+                <th>Viernes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>8:00 - 9:00</td>
+                <td rowspan="2">BADAT</td>
+                <td rowspan="2">IPE I</td>
+                <td>SIINF</td>
+                <td rowspan="2">SIINF</td>
+                <td rowspan="2">SIINF</td>
+            </tr>
+            <tr>
+                <td>9:00 - 10:00</td>
+                <td>LMSGI</td>
+            </tr>
+            <tr>
+                <td>10:00 - 11:00</td>
+                <td>LMSGI</td>
+                <td>BADAT</td>
+                <td>LMSGI</td>
+                <td>IPE I</td>
+                <td>PROGR</td>
+            </tr>
+            <tr style="background-color: #ff910a;">
+                <td colspan="6">Recreo</td>
+            </tr>
+            <tr>
+                <td>11:30 - 12:30</td>
+                <td>PROGR</td>
+                <td>BADAT</td>
+                <td rowspan="2">BADAT</td>
+                <td>ENDES</td>
+                <td>PROGR</td>
+            </tr>
+            <tr>
+                <td>12:30 - 13:30</td>
+                <td>PROGR</td>
+                <td>PROGR</td>
+                <td>PROGR</td>
+                <td>ENDES</td>
+            </tr>
+            <tr>
+                <td>13:30 - 14:30</td>
+                <td>SASP</td>
+                <td>PROGR</td>
+                <td>ENDES</td>
+                <td>PROGR</td>
+                <td>DASPGS</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
