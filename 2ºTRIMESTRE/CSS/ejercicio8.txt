@@ -1,0 +1,5 @@
+Los ejercicios usan position: absolute; para ubicar elementos con precisión dentro de un contenedor que tiene position: relative;.
+
+- "Leyes de Murphy": Las citas se posicionan en ubicaciones específicas usando top, left, right o bottom.
+
+- "Software libre": Las categorías y aplicaciones se distribuyen con absolute, permitiendo un diseño estructurado y ordenado.

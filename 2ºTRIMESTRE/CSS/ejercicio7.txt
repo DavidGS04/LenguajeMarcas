@@ -1,0 +1,8 @@
+Los ejercicios usan la propiedad float para posicionar los elementos de forma flexible.
+
+- "Citas de Óscar Wilde": Cada cita flota a la izquierda (float: left;), formando una cuadrícula adaptable.
+La primera letra de cada cita usa ::first-letter con float: left; para un efecto de letra capital.
+Se aplica overflow: auto; en el contenedor para englobar los elementos flotantes.
+
+- "Efemérides del 14 de diciembre": Las secciones y artículos también usan float: left; con anchos fijos para organizar el contenido en columnas.
+El pie de página usa clear: both; para evitar que se sitúe junto a los elementos flotantes.
