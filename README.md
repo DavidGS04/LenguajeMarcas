@@ -16,32 +16,10 @@ Contiene ejercicios básicos de HTML, estructuras de páginas, formularios y enl
     - `ejercicio8/`: sitio de portfolio con `portfolio/` e `imagenes/`.
     - `ejercicio17/` y `ejercicio18/`: trabajo con imágenes.
     - `ejercicio27/`: incluye un archivo de audio (`sonido.mp3`).
-- `pag_enlaces/`: ejemplo de estructura web sencilla con navegación.
-- `Web4U/`: sitio web dividido en:
-  - `index.html`, `html.html`, `css.html`, `svg.html`.
-  - `styles/`: hojas de estilo (`style_index.css`, `style_pages.css`).
-  - `images/`: recursos visuales (íconos, etiquetas HTML, etc.).
-  - `pdf/`: documentación en formato PDF (`html.pdf`, `css.pdf`, `svg.pdf`).
 
 ---
 
 ## 📁 2º TRIMESTRE
-
-Enfocado en el uso de **Bootstrap**, **JavaScript** y **CSS intermedio**.
-
-### 📌 Proyecto Principal: `ProyectoBootstrap/`
-
-Sitio web basado en Bootstrap enfocado en un club deportivo.
-
-- Archivos principales:  
-  `index.html`, `contacto.html`, `galeria.html`, `palmares.html`, `plantilla.html`, `estilo.css`
-
-- Subcarpetas:
-  - `img/`: imágenes generales (`escudo.png`, `camp_nou1.jpg`, etc.).
-  - `jugadores/`: retratos de jugadores y entrenador.
-  - `multimedia/`: contenido audiovisual (`trailer.mp4`, `himno.mp3`).
-
----
 
 ### 🧠 JavaScript
 
@@ -77,7 +55,7 @@ Dedicado al trabajo con **AJAX**, **XML** y **manipulación del DOM**.
 - `ejercicio1.html` a `ejercicio3.html`
 - Carpeta `datos/`: ejemplos de catálogos XML (`books.xml`, `cd_catalog.xml`).
 
-### 📂 XML-EXERCISES
+### 🧬 XML-EXERCISES
 
 - Prácticas variadas con XML:  
   `ex1a.xml`, `ex1b.xml`, `ex2.xml`, `ex3-original.xml`, `ex3-corregido.xml`, etc.
