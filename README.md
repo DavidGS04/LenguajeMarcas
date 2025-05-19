@@ -28,8 +28,6 @@ Cada carpeta contiene su propio `index.html` y recursos:
 - `ejercicio1/` a `ejercicio9/`
 - `ejercicio3/` incluye imágenes (`spidermanX.jpg`, `imgcoches/`).
 
----
-
 ### 🎨 CSS
 
 Contiene múltiples ejercicios de maquetación y estilo:
