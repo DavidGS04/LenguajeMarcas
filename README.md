@@ -8,16 +8,37 @@ Este repositorio contiene todos los ejercicios y proyectos realizados durante el
 
 Contiene ejercicios básicos de HTML, estructuras de páginas, formularios y enlaces.
 
-### Estructura:
+### 🧾 ejercicio1 a ejercicio28
 
-- [`home.html`](home.html), [`libros.xml`](libros.xml): archivos principales.
-- `Tema1/`: colección de ejercicios:
-  - [`ejercicio1.html`](Tema1/ejercicio1.html) a [`ejercicio28.html`](Tema1/ejercicio28.html)
-  - Subcarpetas destacadas:
-    - [`ejercicio25_2/`](Tema1/ejercicio25_2/): formulario con acción PHP ([`index.html`](Tema1/ejercicio25_2/index.html), `action.php`).
-    - [`ejercicio8/`](Tema1/ejercicio8/): sitio portfolio con [`portfolio/`](Tema1/ejercicio8/portfolio/) e [`imagenes/`](Tema1/ejercicio8/imagenes/).
-    - [`ejercicio17/`](Tema1/ejercicio17/), [`ejercicio18/`](Tema1/ejercicio18/): trabajos con imágenes.
-    - [`ejercicio27/`](Tema1/ejercicio27/): incluye archivo de audio [`sonido.mp3`](Tema1/ejercicio27/sonido.mp3).
+- [`ejercicio1.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio1.html)  
+- [`ejercicio2.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio2.html)  
+- [`ejercicio3.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio3.html)  
+- [`ejercicio4.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio4.html)  
+- [`ejercicio5.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio5.html)  
+- [`ejercicio6.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio6.html)  
+- [`ejercicio7.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio7.html)  
+- [`ejercicio8/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/1%C2%BATRIMESTRE/ejercicio8) – Sitio de portfolio con `portfolio/` e `imagenes/`  
+- [`ejercicio9.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio9.html)  
+- [`ejercicio10.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio10.html)  
+- [`ejercicio11.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio11.html)  
+- [`ejercicio12.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio12.html)  
+- [`ejercicio13.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio13.html)  
+- [`ejercicio14.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio14.html)  
+- [`ejercicio15.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio15.html)  
+- [`ejercicio16.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio16.html)  
+- [`ejercicio17/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/1%C2%BATRIMESTRE/ejercicio17) – Trabajo con imágenes  
+- [`ejercicio18/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/1%C2%BATRIMESTRE/ejercicio18) – Trabajo con imágenes  
+- [`ejercicio19.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio19.html)  
+- [`ejercicio20.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio20.html)  
+- [`ejercicio21.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio21.html)  
+- [`ejercicio22.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio22.html)  
+- [`ejercicio23.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio23.html)  
+- [`ejercicio24.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio24.html)  
+- [`ejercicio25.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio25.html)  
+- [`ejercicio25_2/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/1%C2%BATRIMESTRE/ejercicio25_2) – Formulario con acción PHP (`index.html`, `action.php`)  
+- [`ejercicio26.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio26.html)  
+- [`ejercicio27/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/1%C2%BATRIMESTRE/ejercicio27) – Incluye un archivo de audio (`sonido.mp3`)  
+- [`ejercicio28.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio28.html)
 
 ---
 
