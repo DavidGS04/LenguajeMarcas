@@ -47,7 +47,7 @@ Dedicado al trabajo con **AJAX**, **XML** y **manipulación del DOM**.
 
 ### 🧩 AJAX-EXERCISES
 
-- [`ejercicio1.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio1.html)  
+- [`ejercicio1.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/ejercicio1.html)  
 - [`ejercicio2.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio2.html)  
 - [`ejercicio3.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio3.html)  
 - [`ejercicio4.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio4.html)  
