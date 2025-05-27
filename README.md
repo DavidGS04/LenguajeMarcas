@@ -48,43 +48,43 @@ Dedicado al trabajo con **AJAX**, **XML** y **manipulación del DOM**.
 ### 🧩 AJAX-EXERCISES
 
 - [`ejercicio1.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/ejercicio1.html)  
-- [`ejercicio2.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio2.html)  
-- [`ejercicio3.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio3.html)  
-- [`ejercicio4.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio4.html)  
-- [`ejercicio5.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio5.html)  
-- Subcarpeta [`datos/`](3º%20TRIMESTRE/AJAX-EXERCISES/datos/): contiene archivos XML y JSON para pruebas:  
-  - [`json_demo.txt`](3º%20TRIMESTRE/AJAX-EXERCISES/datos/json_demo.txt)  
-  - [`localidad_21002.xml`](3º%20TRIMESTRE/AJAX-EXERCISES/datos/localidad_21002.xml)
+- [`ejercicio2.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/ejercicio2.html)  
+- [`ejercicio3.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/ejercicio3.html)  
+- [`ejercicio4.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/ejercicio4.html)  
+- [`ejercicio5.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/ejercicio5.html)  
+
+📂 [`datos/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/datos):  
+- [`json_demo.txt`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/datos/json_demo.txt)  
+- [`localidad_21002.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/AJAX-EXERCISES/datos/localidad_21002.xml)  
 
 ---
 
 ### 🧾 XML-DOM
 
-- [`ejercicio1.html`](3º%20TRIMESTRE/XML-DOM/ejercicio1.html)  
-- [`ejercicio2.html`](3º%20TRIMESTRE/XML-DOM/ejercicio2.html)  
-- [`ejercicio3.html`](3º%20TRIMESTRE/XML-DOM/ejercicio3.html)  
-- Carpeta [`datos/`](3º%20TRIMESTRE/XML-DOM/datos/): ejemplos de catálogos XML:  
-  - [`books.xml`](3º%20TRIMESTRE/XML-DOM/datos/books.xml)  
-  - [`cd_catalog.xml`](3º%20TRIMESTRE/XML-DOM/datos/cd_catalog.xml)
+- [`ejercicio1.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-DOM/ejercicio1.html)  
+- [`ejercicio2.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-DOM/ejercicio2.html)  
+- [`ejercicio3.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-DOM/ejercicio3.html)  
+
+📂 [`datos/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/3%C2%BATRIMESTRE/XML-DOM/datos):  
+- [`books.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-DOM/datos/books.xml)  
+- [`cd_catalog.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-DOM/datos/cd_catalog.xml)  
 
 ---
 
 ### 🧬 XML-EXERCISES
 
-Prácticas variadas con XML:
-
-- [`ex1a.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex1a.xml)  
-- [`ex1b.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex1b.xml)  
-- [`ex1c.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex1c.xml)  
-- [`ex2.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex2.xml)  
-- [`ex3-original.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex3-original.xml)  
-- [`ex3-corregido.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex3-corregido.xml)  
-- [`ex3-error.txt`](3º%20TRIMESTRE/XML-EXERCISES/ex3-error.txt)  
-- [`ex4.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex4.xml)  
-- [`ex5a.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex5a.xml)  
-- [`ex5b.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex5b.xml)  
-- [`ex6.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex6.xml)  
-- [`ex7.txt`](3º%20TRIMESTRE/XML-EXERCISES/ex7.txt)
+- [`ex1a.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex1a.xml)  
+- [`ex1b.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex1b.xml)  
+- [`ex1c.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex1c.xml)  
+- [`ex2.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex2.xml)  
+- [`ex3-original.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex3-original.xml)  
+- [`ex3-corregido.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex3-corregido.xml)  
+- [`ex3-error.txt`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex3-error.txt)  
+- [`ex4.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex4.xml)  
+- [`ex5a.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex5a.xml)  
+- [`ex5b.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex5b.xml)  
+- [`ex6.xml`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex6.xml)  
+- [`ex7.txt`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/3%C2%BATRIMESTRE/XML-EXERCISES/ex7.txt)  
 
 ---
 
