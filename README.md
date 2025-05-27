@@ -18,7 +18,6 @@ Contiene ejercicios básicos de HTML, estructuras de páginas, formularios y enl
 - [`ejercicio6.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio6.html)  
 - [`ejercicio7.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio7.html)  
 - [`ejercicio8/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/1%C2%BATRIMESTRE/ejercicio8) – Sitio de portfolio con `portfolio/` e `imagenes/`  
-- [`ejercicio9.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio9.html)  
 - [`ejercicio10.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio10.html)  
 - [`ejercicio11.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio11.html)  
 - [`ejercicio12.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/1%C2%BATRIMESTRE/ejercicio12.html)  
@@ -48,17 +47,42 @@ Contiene ejercicios básicos de HTML, estructuras de páginas, formularios y enl
 
 Cada carpeta contiene su propio `index.html` y recursos:
 
-- [`ejercicio1/`](2º%20TRIMESTRE/JavaScript/ejercicio1/), ..., [`ejercicio9/`](2º%20TRIMESTRE/JavaScript/ejercicio9/)
-- [`ejercicio3/`](2º%20TRIMESTRE/JavaScript/ejercicio3/) incluye imágenes (`spidermanX.jpg`, [`imgcoches/`](2º%20TRIMESTRE/JavaScript/ejercicio3/imgcoches/)).
+- [`ejercicio1/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio1/)
+- [`ejercicio2/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio2/)
+- [`ejercicio3/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio3/)
+- [`ejercicio4/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio4/)
+- [`ejercicio5/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio5/)
+- [`ejercicio6/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio6/)
+- [`ejercicio7/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio7/)
+- [`ejercicio8/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio8/)
+- [`ejercicio9/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/JavaScript/ejercicio9/)
+
+---
 
 ### 🎨 CSS
 
-Ejercicios de maquetación y estilo:
+Contiene múltiples ejercicios de maquetación y estilo:
 
-- Archivos: [`ejercicio3.html`](2º%20TRIMESTRE/CSS/ejercicio3.html), [`ejercicio10.html`](2º%20TRIMESTRE/CSS/ejercicio10.html), etc.
-- Carpetas:
-  - [`ejercicio1/`](2º%20TRIMESTRE/CSS/ejercicio1/), [`ejercicio2/`](2º%20TRIMESTRE/CSS/ejercicio2/)
-  - [`ejercicio11/`](2º%20TRIMESTRE/CSS/ejercicio11/): galería con imágenes (`img1.jpg`, `img2.jpg`, ...).
+#### Carpetas:
+
+- [`ejercicio1/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio1/)
+- [`ejercicio2/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio2/)
+- [`ejercicio11/`](https://github.com/DavidGS04/LenguajeMarcas/tree/main/2%C2%BATRIMESTRE/CSS/ejercicio11/)
+
+#### Archivos individuales:
+
+- [`ejercicio3.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio3.html)
+- [`ejercicio4.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio4.html)
+- [`ejercicio5.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio5.html)
+- [`ejercicio6.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio6.html)
+- [`ejercicio10.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio10.html)
+- [`ejercicio12.html`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio12.html)
+
+#### Archivos `.txt`:
+
+- [`ejercicio7.txt`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio7.txt)
+- [`ejercicio8.txt`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio8.txt)
+- [`ejercicio9.txt`](https://github.com/DavidGS04/LenguajeMarcas/blob/main/2%C2%BATRIMESTRE/CSS/ejercicio9.txt)
 
 ---
 
