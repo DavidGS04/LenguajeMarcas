@@ -9,13 +9,15 @@ Este repositorio contiene todos los ejercicios y proyectos realizados durante el
 Contiene ejercicios básicos de HTML, estructuras de páginas, formularios y enlaces.
 
 ### Estructura:
-- `home.html`, `libros.xml`: archivos principales.
-- `Tema1/`: colección de ejercicios (ejercicio1.html a ejercicio28.html).
-  - Incluye subcarpetas como:
-    - `ejercicio25_2/`: formulario con acción PHP (`index.html`, `action.php`).
-    - `ejercicio8/`: sitio de portfolio con `portfolio/` e `imagenes/`.
-    - `ejercicio17/` y `ejercicio18/`: trabajo con imágenes.
-    - `ejercicio27/`: incluye un archivo de audio (`sonido.mp3`).
+
+- [`home.html`](home.html), [`libros.xml`](libros.xml): archivos principales.
+- `Tema1/`: colección de ejercicios:
+  - [`ejercicio1.html`](Tema1/ejercicio1.html) a [`ejercicio28.html`](Tema1/ejercicio28.html)
+  - Subcarpetas destacadas:
+    - [`ejercicio25_2/`](Tema1/ejercicio25_2/): formulario con acción PHP ([`index.html`](Tema1/ejercicio25_2/index.html), `action.php`).
+    - [`ejercicio8/`](Tema1/ejercicio8/): sitio portfolio con [`portfolio/`](Tema1/ejercicio8/portfolio/) e [`imagenes/`](Tema1/ejercicio8/imagenes/).
+    - [`ejercicio17/`](Tema1/ejercicio17/), [`ejercicio18/`](Tema1/ejercicio18/): trabajos con imágenes.
+    - [`ejercicio27/`](Tema1/ejercicio27/): incluye archivo de audio [`sonido.mp3`](Tema1/ejercicio27/sonido.mp3).
 
 ---
 
@@ -25,17 +27,17 @@ Contiene ejercicios básicos de HTML, estructuras de páginas, formularios y enl
 
 Cada carpeta contiene su propio `index.html` y recursos:
 
-- `ejercicio1/` a `ejercicio9/`
-- `ejercicio3/` incluye imágenes (`spidermanX.jpg`, `imgcoches/`).
+- [`ejercicio1/`](2º%20TRIMESTRE/JavaScript/ejercicio1/), ..., [`ejercicio9/`](2º%20TRIMESTRE/JavaScript/ejercicio9/)
+- [`ejercicio3/`](2º%20TRIMESTRE/JavaScript/ejercicio3/) incluye imágenes (`spidermanX.jpg`, [`imgcoches/`](2º%20TRIMESTRE/JavaScript/ejercicio3/imgcoches/)).
 
 ### 🎨 CSS
 
-Contiene múltiples ejercicios de maquetación y estilo:
+Ejercicios de maquetación y estilo:
 
-- Archivos individuales: `ejercicio3.html`, `ejercicio10.html`, etc.
-- Carpetas específicas:
-  - `ejercicio1/`, `ejercicio2/`: ejemplos con estilos e imágenes.
-  - `ejercicio11/`: galería con imágenes (`img1.jpg`, `img2.jpg`, etc.).
+- Archivos: [`ejercicio3.html`](2º%20TRIMESTRE/CSS/ejercicio3.html), [`ejercicio10.html`](2º%20TRIMESTRE/CSS/ejercicio10.html), etc.
+- Carpetas:
+  - [`ejercicio1/`](2º%20TRIMESTRE/CSS/ejercicio1/), [`ejercicio2/`](2º%20TRIMESTRE/CSS/ejercicio2/)
+  - [`ejercicio11/`](2º%20TRIMESTRE/CSS/ejercicio11/): galería con imágenes (`img1.jpg`, `img2.jpg`, ...).
 
 ---
 
@@ -45,19 +47,28 @@ Dedicado al trabajo con **AJAX**, **XML** y **manipulación del DOM**.
 
 ### 🧩 AJAX-EXERCISES
 
-- `ejercicio1.html` a `ejercicio5.html`
-- Subcarpeta `datos/`: contiene archivos XML y JSON para pruebas (`json_demo.txt`, `localidad_21002.xml`, etc.).
+- [`ejercicio1.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio1.html) a [`ejercicio5.html`](3º%20TRIMESTRE/AJAX-EXERCISES/ejercicio5.html)
+- Subcarpeta [`datos/`](3º%20TRIMESTRE/AJAX-EXERCISES/datos/): contiene archivos XML y JSON para pruebas ([`json_demo.txt`](3º%20TRIMESTRE/AJAX-EXERCISES/datos/json_demo.txt), [`localidad_21002.xml`](3º%20TRIMESTRE/AJAX-EXERCISES/datos/localidad_21002.xml)).
 
 ### 🧾 XML-DOM
 
-- `ejercicio1.html` a `ejercicio3.html`
-- Carpeta `datos/`: ejemplos de catálogos XML (`books.xml`, `cd_catalog.xml`).
+- [`ejercicio1.html`](3º%20TRIMESTRE/XML-DOM/ejercicio1.html) a [`ejercicio3.html`](3º%20TRIMESTRE/XML-DOM/ejercicio3.html)
+- Carpeta [`datos/`](3º%20TRIMESTRE/XML-DOM/datos/): ejemplos de catálogos XML ([`books.xml`](3º%20TRIMESTRE/XML-DOM/datos/books.xml), [`cd_catalog.xml`](3º%20TRIMESTRE/XML-DOM/datos/cd_catalog.xml)).
 
 ### 🧬 XML-EXERCISES
 
 - Prácticas variadas con XML:  
-  `ex1a.xml`, `ex1b.xml`, `ex2.xml`, `ex3-original.xml`, `ex3-corregido.xml`, etc.
-- Incluye errores y correcciones documentadas (`ex3-error.txt`, `ex7.txt`).
+  [`ex1a.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex1a.xml), [`ex1b.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex1b.xml), [`ex2.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex2.xml), [`ex3-original.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex3-original.xml), [`ex3-corregido.xml`](3º%20TRIMESTRE/XML-EXERCISES/ex3-corregido.xml)
+- Incluye errores y correcciones documentadas: [`ex3-error.txt`](3º%20TRIMESTRE/XML-EXERCISES/ex3-error.txt), [`ex7.txt`](3º%20TRIMESTRE/XML-EXERCISES/ex7.txt)
+
+---
+
+## 🔗 ProyectoXML
+
+Este proyecto también se encuentra disponible como repositorio y página web:
+
+- 📁 Repositorio: [https://github.com/davidgs04/ProyectoXML](https://github.com/davidgs04/ProyectoXML)
+- 🌐 Página web: [https://davidgs04.github.io/ProyectoXML](https://davidgs04.github.io/ProyectoXML)
 
 ---
 
